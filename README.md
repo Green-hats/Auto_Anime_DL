@@ -1,4 +1,4 @@
-# Auto Anime DL / RSS 内容自动化采集工具
+# Anime RSS Automation / RSS 内容自动化采集工具
 
 一个个人练习项目，用来把 RSS 订阅里的番剧条目整理成结构化数据，并通过 FastAPI 和前端页面进行浏览。项目也保留了可选的 PikPak 云盘扫描、直链补全和离线下载自动化逻辑。
 
